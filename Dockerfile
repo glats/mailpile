@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine
 
 ENV TZ "Etc/GMT"
 ENV MAILPILE_GNUPG/GA "/usr/bin/gpg-agent"
